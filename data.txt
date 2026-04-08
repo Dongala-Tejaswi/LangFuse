@@ -1,0 +1,40 @@
+DONGALA TEJASWI
+INFORMATION TECHNOLOGY (B.Tech)
+tejaswidongala@gmail.com|9502985386 |linkedin.com/in/tejaswi-dongala
+OBJECTIVE
+Motivated and detail-oriented IT graduate with hands-on experience in Android development, Machine Learning, NLP, and Generative AI. Passionate about
+building real-world applications using modern technologies such as LLMs, RAG, cloud services, and automation tools. Seeking an entry-level role where I can
+apply my technical skills, problem-solving abilities, and continuous learning mindset to contribute to innovative and impactful software solutions.s. Year Degree/Exam Institute CGPA/Marks
+2026 B.Tech(IT) Bhojreddy Engineering College For Women(BRECW) 8.7/10
+2022 Class XII (TSBIE) Narayana Junior College, Kuntloor 92.8%
+2020 Class X (TSBE) Teja talent school,kodad 10/10
+Smart Emergency Medical Assistant | Android, Firebase, GPS APIs
+Built an Android Medical SOS app with real-time GPS tracking and instant alerts (SMS/calls). Secured emergency and medical data using Firebase cloud services. Eligibility Assist | PHP, Java, HTML, CSS
+Developed a government exam prep portal with syllabus access, registration, and email alerts.
+Improved usability through responsive UI and streamlined navigation. AI Agent Automation System | n8n, LLMs, GenAI
+Built autonomous AI workflows using LLM reasoning and n8n automation pipelines.
+Implemented multi-step task execution using prompt engineering and APIs. NLP Restaurant Chatbot | FastAPI, Dialogflow, SQL
+Created an NLP chatbot with intent detection and entity extraction for restaurant queries.
+Integrated SQL-based recommendation engine with FastAPI backend. Equity Research Assistant (RAG) | LLMs, NLP, GenAI
+Developed a GenAI-based equity analysis tool using RAG and embeddings.
+Implemented sentiment analysis, summarization, and risk scoring. Myntra Clone | HTML, CSS, JavaScript
+Designed a responsive e-commerce UI with product listings and navigation. Optimized frontend for smooth performance across devices. Machine Learning Web App | Python, ML, OpenCV
+Built ML models for wine quality prediction.
+Implemented image-to-sketch conversion using OpenCV. LangChain Knowledge Graph (T5) :Built a knowledge graph pipeline for summarization & Q&A.
+Integrated embeddings with vector stores for efficient retrieval.
+· MLFlow Experiment Tracking :Logged parameters, metrics, and artifacts for reproducible ML pipelines.’ Stock Prediction MCP :Developed a stock price prediction model using historical data and ML algorithms. Performed data preprocessing, feature engineering, and model evaluation. Achieved accurate trend predictions to support investment. LinkedIn Post Generator (GenAI Project)
+Developed a GenAI-based LinkedIn post generator using LLaMA 3.1 and LangChain with few-shot prompting.
+Integrated Groq API for high- speed LLM inference and built a Streamlit interface for dynamic post generatio n. CERTIFICATIONS
+• DataVisualization Certificate – CSRBOX
+• Java Course Completion-Great Learning
+SKILLS AND EXPERTISE
+EDUCATION
+ACHIEVEMENTS & EXTRA CURRICULAR ACTIVITIES
+Languages: Java, Python, SQL
+Web Technologies: HTML5, CSS3, JavaScript
+Mobile Development: Android (Java, XML)
+AI / ML / NLP: Machine Learning, NLP, LLMs, RAG, OpenCV
+Databases: MySQL,Firebase Realtime Database
+• 1st Place, Poster Presentation (Vignan College) for developing a Deep Learning–based live image-to-sketch system using edge detection. • 1st Place, Hackathon Competition at JIJNASA National Technical Event, BRECW. • 1st Place, Poster Presentation at JIJNASA National Technical Event, BRECW. AI/ML Intern – FX.is.AI  Developed end-to-end AI/ML solutions in research and production pipelines.  Built LinkedIn post generation models using LLMs and MLFlow for experiment tracking.  Implemented RAG (Retrieval-Augmented Generation) pipelines with vector databases for enhanced knowledge retrieval.  Worked on LangChain-based knowledge graph pipelines integrating T5 models for advanced text summarization and Q&A.  Collaborated on deploying ML models, tracking metrics, and versioning experiments using MLFlow.  Gained hands-on experience in LLM fine-tuning, embeddings, vector databases, and AI system design. LINKS
+LinkedIn: linkedin.com/in/tejaswi-dongala Github: https://github.com/Dongala-Tejaswi
+https://lovable.dev/projects/d4cf94a8-f22c-4f1c-828d-b2d2f5db0999 [digital resume ]
